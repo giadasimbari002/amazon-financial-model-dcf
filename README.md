@@ -11,3 +11,6 @@ This project focuses on Amazon’s financial performance through forecasting and
 - Profitability analysis
 - DCF valuation
 - Financial assumptions and investment analysis
+
+## Note
+This project was developed as part of a team during my MSc in Finance. I contributed to financial modeling, analysis, and forecasting.
